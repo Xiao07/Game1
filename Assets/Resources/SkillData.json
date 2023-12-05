@@ -1,0 +1,12 @@
+[
+    {
+        "skillName": "Basic Attack",
+        "manaCost": 5,
+        "damage": 10
+    },
+    {
+        "skillName": "Fireball",
+        "manaCost": 15,
+        "damage": 30
+    }
+]

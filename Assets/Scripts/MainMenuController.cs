@@ -6,6 +6,8 @@ public class MainMenuController : MonoBehaviour
     {
         // 实现开始游戏的逻辑
         Debug.Log("开始游戏");
+        // 调用场景管理器加载新场景
+        SceneManager.Instance.LoadScene("GameScene");
     }
 
     public void OpenSettings()
